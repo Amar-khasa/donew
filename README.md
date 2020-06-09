@@ -1,2 +1,1 @@
-# github-notification
-First try! 
+#Github
